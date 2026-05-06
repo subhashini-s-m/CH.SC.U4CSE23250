@@ -1,0 +1,18 @@
+{
+  "name": "ch.sc.u4cse23250",
+  "version": "1.0.0",
+  "description": "Campus hiring evaluation backend with reusable logging middleware",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "express": "^5.2.1"
+  }
+}
